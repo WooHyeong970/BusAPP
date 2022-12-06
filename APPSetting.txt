@@ -1,0 +1,17 @@
+P Home
+B Reserve 1 60 5 t
+U Reserve b m BUS RESERVE
+B Check 1 60 5 t
+U Check b m CHECK AND CHANGE
+B Time 1 60 5 t
+U Time b m TIME OF ARRIVAL
+B 5ButtonsBoard 5 60 5 t
+U FreePass b m FP
+U Mark b m MARK
+U Timetable b m TABLE
+U Yanolja b m YANOLJA
+U Mypage b m MYPAGE
+B Notice 1 60 3 t
+U Notice t m NOTICE TEST
+B Exit 1 60 3 d
+U Exit b m EXIT
